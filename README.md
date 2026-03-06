@@ -1,7 +1,11 @@
-<h1 align="center">Привет 👋, Меня зовут Наталия <img height="70px" src="fox_coding.webp" alt="gif"/></h1>
-  
+<div align="center">
+  <img  height="150px" src="fox_coding.webp" alt="gif"/>
+</div>
 
-### <img src="pink.webp" width="50">  Немного обо мне...  
+<h1 align="center">Привет, меня зовут Наталия </h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%57130b&lines=Немного+обо+мне+...)](https://git.io/typing-svg)
+<!--### <img src="pink.webp" width="50">  Немного обо мне...  -->
 
 ```javascript
 const nata = {
@@ -47,7 +51,7 @@ funFact: "..."
 };
 ```
 
-
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PoulpeEdelweiss)](https://git.io/streak-stats)-->
 
 <!--
 
