@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, Меня зовут Наталия <img height="70px" src="fox_coding.webp" alt="gif"/></h1>
   
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Немного обо мне...  
+### <img src="pink.webp" width="50">  Немного обо мне...  
 
 ```javascript
 const nata = {
